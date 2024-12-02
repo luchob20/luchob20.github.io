@@ -1,0 +1,47 @@
+.titulo1 {
+    color: blueviolet;
+}
+
+p {
+    color: brown;
+
+}
+
+#a {
+    color: blue;
+}
+
+#primeraparte {
+    height: 50px;
+}
+
+#segundaparte {
+    height: 50px;
+    
+    
+}
+
+#terceraparte {
+    height: 50px;
+    margin: 25px;
+    border: 5px solid black;
+
+}
+
+.imagen {
+    margin: 10px;
+    border: 5px solid black;
+    
+}
+
+.item{
+    width: auto;
+    height: auto;
+    background-color: blue;
+    
+    
+}
+.contenedor{ 
+    display: flex;
+    justify-content: space-around;
+}
